@@ -1,2 +1,3 @@
 # hello-world
 my first repository
+Hello developers and innovators, get together and invent something marvellous... and funny...
